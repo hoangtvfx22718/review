@@ -1,0 +1,6 @@
+/* li:nth-child(2) {
+  color: yellow;
+} */
+li:first-child {
+  color: yellow;
+}
